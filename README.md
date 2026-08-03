@@ -1,6 +1,6 @@
 <div align="center">
 
-# SOC Agent
+# SOC Assistan
 
 ### AI-Powered Threat Intelligence Platform for SOC Analysts
 
@@ -21,7 +21,7 @@
 
 ---
 
-## What is SOC Agent?
+## What is SOC Assistan?
 
 SOC Agent is a web-based threat intelligence platform designed for Security Operations Center (SOC) analysts. It integrates **20 threat intelligence APIs**, **web OSINT search (Tavily)** and **5 LLM providers** to analyze Indicators of Compromise (IOCs) such as IPs, domains, hashes, and URLs.
 
